@@ -7,6 +7,7 @@ view: cd_1 {
     datagroup_trigger: nightly_rebuild
   }
   dimension: pk {
+    # its a comment
     type: string
     primary_key: yes
     hidden: yes
